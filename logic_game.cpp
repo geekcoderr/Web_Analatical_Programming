@@ -1,5 +1,5 @@
 
-/* *This is The Program is Developed as a Logical Program Game - By Nishant Maheshwari (+91 9897319973 , mnishant222@gmail.com) in Year (2016)* */
+/* *This is The Program is Developed as a Logical Program Game - By Nishant Maheshwari (+91 7310720193 , mnishant222@gmail.com) in Year (2016)* */
 #include<string.h>
 #include<iostream>
 #include<stdio.h>
